@@ -1,0 +1,1 @@
+mongoimport --db productdb --collection productSold --drop --file .\export.100k.json
